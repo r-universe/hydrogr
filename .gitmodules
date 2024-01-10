@@ -5,4 +5,4 @@
 [submodule "evalhyd"]
 	path = evalhyd
 	url = https://gitlab.irstea.fr/HYCAR-Hydro/evalhyd/evalhyd-r
-	branch = dev
+	branch = main
