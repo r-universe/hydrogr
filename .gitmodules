@@ -4,5 +4,5 @@
 	branch = HEAD
 [submodule "evalhyd"]
 	path = evalhyd
-	url = https://gitlab.irstea.fr/HYCAR-Hydro/evalhyd/evalhyd-r
+	url = https://forge.inrae.fr/hydroGR/evalhyd/evalhyd-r
 	branch = main
